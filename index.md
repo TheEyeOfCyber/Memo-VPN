@@ -1,5 +1,5 @@
 ## Welcome to Memo Vpn
-<img src="https://i.ibb.co/hCZV5Rr/20210713-113451-0000.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
 Memo vpn is a virtual private network extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common, although not an inherent, part of a VPN connection. VPN technology was developed to provide access to corporate applications and resources to remote or mobile users, and to branch offices.
 ![Image](https://i.ibb.co/hCZV5Rr/20210713-113451-0000.png "MarineGEO logo")
 
