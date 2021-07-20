@@ -1,17 +1,15 @@
 ## Welcome to Memo Vpn
 Memo vpn is a virtual private network extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common, although not an inherent, part of a VPN connection. VPN technology was developed to provide access to corporate applications and resources to remote or mobile users, and to branch offices.
-
+![Image](src)
 
 ### Installation
 
 To install the client or server (Only compatible on Debian based Linux systems)
 
 ```markdown
-Syntax highlighted code block
+Getting started with the memo vpn..
 
-# Header 1
-## Header 2
-### Header 3
+# Step 1
 
 - Bulleted
 - List
@@ -21,7 +19,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
