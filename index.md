@@ -10,6 +10,7 @@ To install the client or server (Only compatible on Debian based Linux systems)
 Getting started with the memo vpn..
 
 # Step 1
+- For the First step we will need to clone the repository in the terminal or simply copy paste the given command 👇
 
 wget -O install https://github.com/TheEyeOfCyber/memovpn.vip/blob/main/install.sh
 
