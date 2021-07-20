@@ -10,23 +10,27 @@ To install the client or server (Only compatible on Debian based Linux systems)
 Getting started with the memo vpn..
 
 # Step 1
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
+```
+wget -O install https://github.com/TheEyeOfCyber/memovpn.vip/blob/main/install.sh
+```
+# Step 2
+```
+chmod +x install.sh
+```
+# Step 3
+```
+sudo ./install
+```
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details [Visit Website](https://theeyeofcyber.github.io/).
 
-### Jekyll Themes
+### Social Accounts 👥
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheEyeOfCyber/TheEyeOfCyberOfficial.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Meet us at our social media platform...
+[Facebook](https://www.facebook.com/groups/theeyeofcyberbuckeyesecurtiy/)
+[Youtube](https://www.youtube.com/c/theeyeofcyberbuckeyesecurityofficial)
+[Linkedin](https://pk.linkedin.com/in/theeyeofcyber)
 
 ### Support or Contact
 
