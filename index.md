@@ -10,17 +10,17 @@ To install the client or server (Only compatible on Debian based Linux systems)
 Getting started with the memo vpn..
 
 # Step 1
-```
+
 wget -O install https://github.com/TheEyeOfCyber/memovpn.vip/blob/main/install.sh
-```
+
 # Step 2
-```
+
 chmod +x install.sh
-```
+
 # Step 3
-```
+
 sudo ./install
-```
+
 ```
 
 For more details [Visit Website](https://theeyeofcyber.github.io/).
